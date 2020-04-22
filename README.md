@@ -22,6 +22,6 @@ Technologies used:
 # To properly set up a similar code
 
 I gathered some notes and a process guide to set up a **Telegram Bot** with a PostgreSQL DB.  
-[You can find the guide here]().  
+[You can find the guide here](../some.guides/telegram_psql_heroku.md).  
 
  
